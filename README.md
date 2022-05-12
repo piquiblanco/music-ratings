@@ -2,6 +2,12 @@
 
 The project uses data on ratings which I've been giving out to music I listen to. Ratings from compatible users found on Rateyourmusic.com are also utilized, as well as some metadata (genre, release year).
 
+## Repository contents
+- `analysis.ipynb`: Jupyter Notebook containing the analysis.
+- `data/my_ratings.csv`: Data about my ratings.
+- `data/user_ratings.csv`: Data about other users' ratings. The file was anonymized, with Rateyourmusic usernames replaced with a list of French names.
+- `data/metadata.csv`: Metadata on albums contained in `my_ratings.csv`.
+
 ## Project goal
 
 The goal of this project is to answer five questions:
