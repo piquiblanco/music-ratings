@@ -36,4 +36,5 @@ This step was in the scope of the project, as the model built served an inferent
 - numpy
 - scikit-learn
 - seaborn
+
 Full list of dependencies is present in the `environment.yml` file.
