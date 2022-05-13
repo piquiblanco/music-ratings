@@ -38,3 +38,6 @@ This step was in the scope of the project, as the model built served an inferent
 - seaborn
 
 Full list of dependencies is present in the `environment.yml` file.
+
+## Acknowledgement
+User ratings and metadata were sourced from Rateyourmusic.com website.
