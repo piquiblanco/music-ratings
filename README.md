@@ -30,3 +30,10 @@ Data was subject to leave-one-out crossvalidation, with ridge regressions traine
 Models described in step 4 were subject to evaluation based on two metrics. R-squared and root mean squared error. The best model achieved R-squared of over 20%, which was my initial target. (Answer to Q1)
 ### 6. Deployment
 This step was in the scope of the project, as the model built served an inferential purpose. Coefficient of final model were analyzed to see which independent variables describe my ratings (answers to Q2, Q3). Finally, predictions were analyzed with respect to biggest differences between model predictions and real ratings (answers to Q4, Q5).
+
+## Libraries used in the project
+- pandas
+- numpy
+- scikit-learn
+- seaborn
+Full list of dependencies is present in the `environment.yml` file.
